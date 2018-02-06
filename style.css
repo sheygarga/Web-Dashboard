@@ -1,0 +1,12 @@
+.navbar-default .navbar-brand {
+    color: white;
+    background-color: teal;
+    font-size: 50px;
+    font-family: 'Arimo';
+}
+
+.navbar-default{
+    background-color: white;
+    color: white;
+    line-height: 60px;
+}

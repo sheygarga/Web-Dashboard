@@ -1,8 +1,9 @@
 .navbar-default .navbar-brand {
     color: white;
     background-color: teal;
-    font-size: 50px;
+    font-size: 45px;
     font-family: 'Arimo';
+    border-radius: 4px;
 }
 
 .navbar-default{
@@ -10,3 +11,50 @@
     color: white;
     line-height: 60px;
 }
+
+body {
+    background-color : rgba(233, 233, 233, 0.829);
+
+
+
+}
+
+.media-body {
+    font-size: 20px;
+
+
+
+}
+
+#lat-sum{
+    font-family: 'Segoe UI';
+    color: teal;
+    font-size: 40px;
+
+}
+
+#lat-sum-header{
+    background-color: white;
+
+}
+
+#vis-text{
+    font-family: 'Segoe UI';
+    color: teal;
+    font-size: 40px;
+
+}
+
+#vis-text-header{
+    background-color: white;
+
+}
+
+#footer{
+    background-color: teal;
+    font-family: 'Segoe UI';
+    color: white
+
+
+}
+
